@@ -1,2 +1,11 @@
 # apache-spark
-Sample &amp; Utility code for Apache spark for different business scenarios
+
+##Word Count Program in Standalone Mode
+
+##Word Count Program in Distributed Mode
+
+##Word Count Program with complex use case
+
+##Group By Program
+
+
